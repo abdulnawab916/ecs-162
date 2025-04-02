@@ -10,8 +10,7 @@
     notes/ – Handwritten and typed notes from lectures and discussions (coming soon)
 
 ## Notes
-
-## Typed and handwritten notes will be added throughout the quarter to help review concepts and supplement lecture material.
+Typed and handwritten notes will be added throughout the quarter to help review concepts and supplement lecture material.
 # Purpose
 ## This repo serves as:
 
