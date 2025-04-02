@@ -1,7 +1,7 @@
-ECS 162 – Web Programming @ UC Davis
+# ECS 162 – Web Programming @ UC Davis
 
-This repository contains all files related to ECS 162 (Web Programming) at UC Davis.
-📂 Structure
+# This repository contains all files related to ECS 162 (Web Programming) at UC Davis.
+## 📂 Structure
 
     labs/ – Each lab assignment is stored in its own subfolder
 
@@ -9,11 +9,11 @@ This repository contains all files related to ECS 162 (Web Programming) at UC Da
 
     notes/ – Handwritten and typed notes from lectures and discussions (coming soon)
 
-Notes
+## Notes
 
-Typed and handwritten notes will be added throughout the quarter to help review concepts and supplement lecture material.
-Purpose
-This repo serves as:
+## Typed and handwritten notes will be added throughout the quarter to help review concepts and supplement lecture material.
+# Purpose
+## This repo serves as:
 
     A portfolio of coursework and assignments
 
