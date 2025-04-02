@@ -1,0 +1,44 @@
+
+
+/*
+    Abdul's Note:
+    Added two lines of code, first, we added the justify-content: center; to the container class.
+    This ensures that the items inside the container are centered horizontally.
+    Then, we changed the flex-direction to have the value of 'row'. 
+
+    1/2/2025: In class, we went over CSS flexbox. We learned how to use flexbox to create
+    layouts and how to position items within a container. 
+ */
+.container {
+    display: flex;
+    /* Change #1 here */
+    flex-direction: row; 
+    /* Chang #2 here */
+    justify-content: center;
+}
+
+.box {
+    background-color: lightcoral;
+    border-radius: '5px';   
+    padding: 20px;
+    margin: 10px;
+    text-align:center;
+    font-size: 14px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+
+#item-1 {
+    width: 200px; 
+    height: 20px;
+}
+
+#item-2 {
+    width: 300px;
+    height: 20px;
+}
+
+#item-3 {
+    width: 140px;
+    height: 20px;
+}
